@@ -1,4 +1,6 @@
 properties.db
+pipeline.db
+pipeline_scheduler.log
 __pycache__/
 *.pyc
 .venv/
